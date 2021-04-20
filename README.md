@@ -9,7 +9,7 @@ Decisiones de código:
   - Se mueven las filas y columas pares cambiando entre movimient por filas y movimientos por columnas cada vez que se cambia el tamaño de filas/columnas.
   - Para decidir el color se usan las siguientes lineas de codigo siendo colorA el fondo y colorB el color de la figura:
   
-  [IMAGEN]
+  ![error](https://github.com/CarlosJavierMartin/Shaders/blob/master/colorEq.jpeg?raw=true)
   
   - Se ha reutilizado y mezclado codigo visto en clase.
   
